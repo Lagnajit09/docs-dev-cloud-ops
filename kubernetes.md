@@ -2,6 +2,8 @@
 
 ---
 
+![](https://www.orientsoftware.com/Themes/Content/Images/blog/2021-11-16/kubernetes-logo.png)
+
 ## **Introduction to Kubernetes**
 
 **Kubernetes** (often abbreviated as **k8s**) is an **open-source platform** that automates the deployment, scaling, and management of **containerized applications**. It ensures that your apps are running reliably and efficiently.
@@ -36,6 +38,8 @@ Imagine Kubernetes as a manager that:
 ---
 
 ## **Core Concepts in Kubernetes**
+
+![](https://kubernetes.io/images/docs/kubernetes-cluster-architecture.svg)
 
 ### 1. **Cluster**
 A Kubernetes **cluster** is a group of machines (physical or virtual) that work together as one system. The cluster consists of:
