@@ -41,7 +41,7 @@ This guide explains how to deploy a Kubernetes cluster on Azure Kubernetes Servi
 3. Copy the `manifest.yaml` content provided in the instructions and paste it into the file.
 4. Click **Add** to deploy the application.
 
-```
+```yaml
 # manifest.yaml
 
 apiVersion: v1
